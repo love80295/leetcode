@@ -25,6 +25,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/love80295/leetcode/tree/master/0002-add-two-numbers) |
+| [0412-fizz-buzz](https://github.com/love80295/leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/love80295/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Stack
 |  |
@@ -34,4 +35,12 @@ leetcode solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/love80295/leetcode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/love80295/leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/love80295/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
