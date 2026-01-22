@@ -43,4 +43,12 @@ leetcode solutions
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/love80295/leetcode/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/love80295/leetcode/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/love80295/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
