@@ -20,6 +20,7 @@ leetcode solutions
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/love80295/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/love80295/leetcode/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/love80295/leetcode/tree/master/0283-move-zeroes) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/love80295/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Math
 |  |
@@ -50,6 +51,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/love80295/leetcode/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/love80295/leetcode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
