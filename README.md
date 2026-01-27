@@ -23,6 +23,7 @@ leetcode solutions
 | [0141-linked-list-cycle](https://github.com/love80295/leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/love80295/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/love80295/leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/love80295/leetcode/tree/master/0344-reverse-string) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/love80295/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Math
 |  |
@@ -45,6 +46,7 @@ leetcode solutions
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/love80295/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/love80295/leetcode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/love80295/leetcode/tree/master/1108-defanging-an-ip-address) |
 ## Simulation
