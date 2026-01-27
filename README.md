@@ -60,6 +60,7 @@ leetcode solutions
 | [0189-rotate-array](https://github.com/love80295/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/love80295/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/love80295/leetcode/tree/master/0283-move-zeroes) |
+| [1539-kth-missing-positive-number](https://github.com/love80295/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,4 +78,8 @@ leetcode solutions
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/love80295/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/love80295/leetcode/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
