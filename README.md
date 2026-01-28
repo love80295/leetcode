@@ -46,6 +46,7 @@ leetcode solutions
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/love80295/leetcode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/love80295/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/love80295/leetcode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/love80295/leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -56,6 +57,7 @@ leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/love80295/leetcode/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/love80295/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/love80295/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/love80295/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -86,4 +88,8 @@ leetcode solutions
 |  |
 | ------- |
 | [1539-kth-missing-positive-number](https://github.com/love80295/leetcode/tree/master/1539-kth-missing-positive-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/love80295/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
