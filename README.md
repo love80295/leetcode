@@ -6,6 +6,7 @@ leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/love80295/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/love80295/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/love80295/leetcode/tree/master/0217-contains-duplicate) |
 ## Linked List
@@ -57,6 +58,7 @@ leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/love80295/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/love80295/leetcode/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/love80295/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/love80295/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
