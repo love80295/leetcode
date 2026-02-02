@@ -68,6 +68,7 @@ leetcode solutions
 | [0217-contains-duplicate](https://github.com/love80295/leetcode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/love80295/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/love80295/leetcode/tree/master/0283-move-zeroes) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/love80295/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/love80295/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
@@ -91,6 +92,7 @@ leetcode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/love80295/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/love80295/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Trie
 |  |
