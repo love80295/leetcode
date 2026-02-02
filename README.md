@@ -66,6 +66,7 @@ leetcode solutions
 | [0136-single-number](https://github.com/love80295/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/love80295/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/love80295/leetcode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/love80295/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/love80295/leetcode/tree/master/0283-move-zeroes) |
 | [1539-kth-missing-positive-number](https://github.com/love80295/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
@@ -82,6 +83,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/love80295/leetcode/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/love80295/leetcode/tree/master/0274-h-index) |
 ## Greedy
 |  |
 | ------- |
@@ -94,4 +96,8 @@ leetcode solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/love80295/leetcode/tree/master/0014-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/love80295/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
