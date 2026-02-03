@@ -21,6 +21,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/love80295/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/love80295/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/love80295/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/love80295/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/love80295/leetcode/tree/master/0189-rotate-array) |
@@ -61,6 +62,7 @@ leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/love80295/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/love80295/leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/love80295/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/love80295/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/love80295/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/love80295/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
