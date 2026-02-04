@@ -28,6 +28,7 @@ leetcode solutions
 | [0189-rotate-array](https://github.com/love80295/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/love80295/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/love80295/leetcode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/love80295/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/love80295/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Math
 |  |
@@ -75,6 +76,7 @@ leetcode solutions
 | [0274-h-index](https://github.com/love80295/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/love80295/leetcode/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/love80295/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0977-squares-of-a-sorted-array](https://github.com/love80295/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/love80295/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
@@ -92,6 +94,7 @@ leetcode solutions
 | [0088-merge-sorted-array](https://github.com/love80295/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/love80295/leetcode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/love80295/leetcode/tree/master/0274-h-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/love80295/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
