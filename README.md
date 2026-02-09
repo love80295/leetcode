@@ -44,6 +44,7 @@ leetcode solutions
 | [0231-power-of-two](https://github.com/love80295/leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/love80295/leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/love80295/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/love80295/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -91,6 +92,7 @@ leetcode solutions
 | ------- |
 | [0136-single-number](https://github.com/love80295/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/love80295/leetcode/tree/master/0231-power-of-two) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/love80295/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
