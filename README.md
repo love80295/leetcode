@@ -42,6 +42,7 @@ leetcode solutions
 | [0172-factorial-trailing-zeroes](https://github.com/love80295/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/love80295/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/love80295/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/love80295/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/love80295/leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/love80295/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/love80295/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -54,6 +55,7 @@ leetcode solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/love80295/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/love80295/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/love80295/leetcode/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
