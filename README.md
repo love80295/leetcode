@@ -41,6 +41,7 @@ leetcode solutions
 | [0009-palindrome-number](https://github.com/love80295/leetcode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/love80295/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/love80295/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/love80295/leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/love80295/leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/love80295/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Stack
@@ -51,6 +52,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/love80295/leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/love80295/leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/love80295/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/love80295/leetcode/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
