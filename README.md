@@ -77,6 +77,7 @@ leetcode solutions
 | [0015-3sum](https://github.com/love80295/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/love80295/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/love80295/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/love80295/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/love80295/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/love80295/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/love80295/leetcode/tree/master/0118-pascals-triangle) |
@@ -101,6 +102,7 @@ leetcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/love80295/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/love80295/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/love80295/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/love80295/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -117,6 +119,7 @@ leetcode solutions
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/love80295/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/love80295/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Binary Search
 |  |
