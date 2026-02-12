@@ -9,11 +9,12 @@ class Solution {
             if(x>max){
                 max = x;
             }
-        //     if(max>=nums.length-1){
-        //         return true;
-        //     }
-        // }
-       // return true;
+             if(max>=nums.length-1){
+                 return true;
+            }
+         }
+        return true;
     }
-    return true;
-}}
+    
+  }
+
