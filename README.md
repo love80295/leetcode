@@ -96,6 +96,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/love80295/leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/love80295/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/love80295/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/love80295/leetcode/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/love80295/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -135,4 +136,8 @@ leetcode solutions
 |  |
 | ------- |
 | [0274-h-index](https://github.com/love80295/leetcode/tree/master/0274-h-index) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/love80295/leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
