@@ -39,6 +39,7 @@ leetcode solutions
 | [0002-add-two-numbers](https://github.com/love80295/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/love80295/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/love80295/leetcode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/love80295/leetcode/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/love80295/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/love80295/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/love80295/leetcode/tree/master/0231-power-of-two) |
@@ -62,12 +63,14 @@ leetcode solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/love80295/leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/love80295/leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/love80295/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/love80295/leetcode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/love80295/leetcode/tree/master/1108-defanging-an-ip-address) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/love80295/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/love80295/leetcode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
@@ -95,6 +98,7 @@ leetcode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/love80295/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/love80295/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/love80295/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/love80295/leetcode/tree/master/0231-power-of-two) |
