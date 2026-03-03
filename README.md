@@ -111,6 +111,7 @@ leetcode solutions
 | [0118-pascals-triangle](https://github.com/love80295/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/love80295/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/love80295/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/love80295/leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Sorting
 |  |
 | ------- |
