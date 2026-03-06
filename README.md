@@ -93,6 +93,7 @@ leetcode solutions
 | [0136-single-number](https://github.com/love80295/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/love80295/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/love80295/leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/love80295/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/love80295/leetcode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/love80295/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/love80295/leetcode/tree/master/0283-move-zeroes) |
@@ -136,6 +137,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/love80295/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/love80295/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/love80295/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/love80295/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Trie
@@ -150,4 +152,12 @@ leetcode solutions
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/love80295/leetcode/tree/master/0190-reverse-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/love80295/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/love80295/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
