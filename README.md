@@ -9,6 +9,7 @@ leetcode solutions
 | [0001-two-sum](https://github.com/love80295/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/love80295/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/love80295/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/love80295/leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -64,6 +65,7 @@ leetcode solutions
 | ------- |
 | [0014-longest-common-prefix](https://github.com/love80295/leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/love80295/leetcode/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/love80295/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/love80295/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/love80295/leetcode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/love80295/leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -120,6 +122,7 @@ leetcode solutions
 | [0075-sort-colors](https://github.com/love80295/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/love80295/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/love80295/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/love80295/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/love80295/leetcode/tree/master/0274-h-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/love80295/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
