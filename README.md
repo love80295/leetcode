@@ -8,6 +8,7 @@ leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/love80295/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/love80295/leetcode/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/love80295/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/love80295/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/love80295/leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
@@ -65,6 +66,7 @@ leetcode solutions
 | ------- |
 | [0014-longest-common-prefix](https://github.com/love80295/leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/love80295/leetcode/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/love80295/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/love80295/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/love80295/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/love80295/leetcode/tree/master/0412-fizz-buzz) |
