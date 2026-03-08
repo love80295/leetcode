@@ -8,6 +8,7 @@ leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/love80295/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/love80295/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/love80295/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/love80295/leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/love80295/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/love80295/leetcode/tree/master/0217-contains-duplicate) |
@@ -69,6 +70,7 @@ leetcode solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/love80295/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/love80295/leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/love80295/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/love80295/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/love80295/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/love80295/leetcode/tree/master/0205-isomorphic-strings) |
@@ -90,6 +92,7 @@ leetcode solutions
 | [0015-3sum](https://github.com/love80295/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/love80295/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/love80295/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/love80295/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/love80295/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/love80295/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/love80295/leetcode/tree/master/0088-merge-sorted-array) |
@@ -128,6 +131,7 @@ leetcode solutions
 | ------- |
 | [0015-3sum](https://github.com/love80295/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/love80295/leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/love80295/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/love80295/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/love80295/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/love80295/leetcode/tree/master/0217-contains-duplicate) |
