@@ -18,6 +18,7 @@ leetcode solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/love80295/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/love80295/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/love80295/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/love80295/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/love80295/leetcode/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/love80295/leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -63,6 +64,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/love80295/leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/love80295/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/love80295/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/love80295/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/love80295/leetcode/tree/master/0326-power-of-three) |
