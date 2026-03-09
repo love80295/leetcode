@@ -33,6 +33,7 @@ leetcode solutions
 | [0016-3sum-closest](https://github.com/love80295/leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/love80295/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/love80295/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/love80295/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/love80295/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/love80295/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/love80295/leetcode/tree/master/0125-valid-palindrome) |
@@ -62,6 +63,7 @@ leetcode solutions
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/love80295/leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/love80295/leetcode/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/love80295/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
@@ -102,6 +104,7 @@ leetcode solutions
 | [0015-3sum](https://github.com/love80295/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/love80295/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/love80295/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/love80295/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/love80295/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/love80295/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/love80295/leetcode/tree/master/0075-sort-colors) |
@@ -131,6 +134,7 @@ leetcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/love80295/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/love80295/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/love80295/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/love80295/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -183,4 +187,8 @@ leetcode solutions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/love80295/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/love80295/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
