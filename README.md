@@ -13,6 +13,7 @@ leetcode solutions
 | [0205-isomorphic-strings](https://github.com/love80295/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/love80295/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/love80295/leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/love80295/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
 | ------- |
@@ -85,6 +86,7 @@ leetcode solutions
 | [0242-valid-anagram](https://github.com/love80295/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/love80295/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/love80295/leetcode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/love80295/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1108-defanging-an-ip-address](https://github.com/love80295/leetcode/tree/master/1108-defanging-an-ip-address) |
 ## Simulation
 |  |
@@ -176,6 +178,7 @@ leetcode solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/love80295/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/love80295/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/love80295/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
