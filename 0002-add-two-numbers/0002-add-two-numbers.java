@@ -17,30 +17,54 @@ class Solution {
     //     return newhead;
     // }
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode newnode = new ListNode(100);
-        ListNode newtemp = newnode;
-        ListNode newrev1 = l1;
-        ListNode newrev2 = l2;
-        ListNode temp1 = newrev1;
-        ListNode temp2 = newrev2;
-        int carry = 0;
-        while(newrev1!=null || newrev2!=null || carry!=0){
-            int sum = carry;
-            if(newrev1!=null){
-                sum = sum + newrev1.val;
-                newrev1 = newrev1.next;
-            }
-            if(newrev2!=null){
-                sum = sum+newrev2.val;
-             newrev2 = newrev2.next;
-            }
-            carry = sum/10;
-            int digit = sum%10;
-            newtemp.next  = new ListNode(digit);
-            newtemp = newtemp.next; 
+    //     ListNode newnode = new ListNode(100);
+    //     ListNode newtemp = newnode;
+    //     ListNode newrev1 = l1;
+    //     ListNode newrev2 = l2;
+    //     ListNode temp1 = newrev1;
+    //     ListNode temp2 = newrev2;
+    //     int carry = 0;
+    //     while(newrev1!=null || newrev2!=null || carry!=0){
+    //         int sum = carry;
+    //         if(newrev1!=null){
+    //             sum = sum + newrev1.val;
+    //             newrev1 = newrev1.next;
+    //         }
+    //         if(newrev2!=null){
+    //             sum = sum+newrev2.val;
+    //          newrev2 = newrev2.next;
+    //         }
+    //         carry = sum/10;
+    //         int digit = sum%10;
+    //         newtemp.next  = new ListNode(digit);
+    //         newtemp = newtemp.next; 
                
+    //     }
+    //  return newnode.next;
+    ListNode newnode = new ListNode(123);
+    ListNode temp = newnode;
+    ListNode temp1 = l1;
+    ListNode temp2 = l2;
+    int carry = 0;
+    while(temp1!=null || temp2!=null || carry!=0){
+        int sum = carry;
+        if(temp1!=null){
+            int value = temp1.val;
+            sum+=value;
+            temp1 = temp1.next;
         }
-     return newnode.next;
+        if(temp2!=null){
+            int value = temp2.val;
+            sum+=value;
+            temp2 = temp2.next;
+        }
+        carry = sum/10;
+        int digit = sum%10;
+        ListNode newList = new ListNode(digit);
+        temp.next = newList;
+        temp = temp.next;
+    }
+    return newnode.next;
     }
     static {
         Runtime.getRuntime().addShutdownHook(new Thread(() -> {
