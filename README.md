@@ -68,6 +68,7 @@ leetcode solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/love80295/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/love80295/leetcode/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/love80295/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/love80295/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -92,6 +93,7 @@ leetcode solutions
 | [0344-reverse-string](https://github.com/love80295/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/love80295/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/love80295/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/love80295/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/love80295/leetcode/tree/master/1108-defanging-an-ip-address) |
 ## Simulation
 |  |
