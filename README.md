@@ -65,6 +65,7 @@ leetcode solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/love80295/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/love80295/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/love80295/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/love80295/leetcode/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/love80295/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
@@ -110,6 +111,7 @@ leetcode solutions
 | [0049-group-anagrams](https://github.com/love80295/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/love80295/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/love80295/leetcode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/love80295/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/love80295/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/love80295/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/love80295/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -193,4 +195,5 @@ leetcode solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/love80295/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/love80295/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
