@@ -68,6 +68,7 @@ leetcode solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/love80295/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/love80295/leetcode/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/love80295/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/love80295/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/love80295/leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/love80295/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
@@ -126,6 +127,7 @@ leetcode solutions
 | [0217-contains-duplicate](https://github.com/love80295/leetcode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/love80295/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/love80295/leetcode/tree/master/0283-move-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/love80295/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/love80295/leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/love80295/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/love80295/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -200,5 +202,6 @@ leetcode solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/love80295/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/love80295/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/love80295/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/love80295/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
