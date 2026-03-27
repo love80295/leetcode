@@ -115,6 +115,7 @@ leetcode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/love80295/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/love80295/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/love80295/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/love80295/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/love80295/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/love80295/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/love80295/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -207,4 +208,8 @@ leetcode solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/love80295/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/love80295/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/love80295/leetcode/tree/master/0739-daily-temperatures) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/love80295/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
