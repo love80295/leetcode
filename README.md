@@ -9,6 +9,7 @@ leetcode solutions
 | [0001-two-sum](https://github.com/love80295/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/love80295/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/love80295/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/love80295/leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/love80295/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/love80295/leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/love80295/leetcode/tree/master/0205-isomorphic-strings) |
@@ -116,6 +117,7 @@ leetcode solutions
 | [0016-3sum-closest](https://github.com/love80295/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/love80295/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/love80295/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/love80295/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/love80295/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/love80295/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/love80295/leetcode/tree/master/0051-n-queens) |
@@ -215,6 +217,7 @@ leetcode solutions
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/love80295/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/love80295/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/love80295/leetcode/tree/master/0052-n-queens-ii) |
 ## Depth-First Search
@@ -229,5 +232,6 @@ leetcode solutions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/love80295/leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/love80295/leetcode/tree/master/0037-sudoku-solver) |
 | [2596-check-knight-tour-configuration](https://github.com/love80295/leetcode/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
