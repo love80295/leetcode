@@ -8,6 +8,7 @@ leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/love80295/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/love80295/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/love80295/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/love80295/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/love80295/leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/love80295/leetcode/tree/master/0205-isomorphic-strings) |
@@ -114,6 +115,7 @@ leetcode solutions
 | [0015-3sum](https://github.com/love80295/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/love80295/leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/love80295/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/love80295/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/love80295/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/love80295/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/love80295/leetcode/tree/master/0051-n-queens) |
@@ -226,5 +228,6 @@ leetcode solutions
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/love80295/leetcode/tree/master/0036-valid-sudoku) |
 | [2596-check-knight-tour-configuration](https://github.com/love80295/leetcode/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
