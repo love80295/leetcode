@@ -104,6 +104,7 @@ leetcode solutions
 | ------- |
 | [0067-add-binary](https://github.com/love80295/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/love80295/leetcode/tree/master/0412-fizz-buzz) |
+| [2596-check-knight-tour-configuration](https://github.com/love80295/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Array
 |  |
 | ------- |
@@ -135,6 +136,7 @@ leetcode solutions
 | [0744-find-smallest-letter-greater-than-target](https://github.com/love80295/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/love80295/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/love80295/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2596-check-knight-tour-configuration](https://github.com/love80295/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -213,4 +215,16 @@ leetcode solutions
 | ------- |
 | [0051-n-queens](https://github.com/love80295/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/love80295/leetcode/tree/master/0052-n-queens-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/love80295/leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/love80295/leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Matrix
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/love80295/leetcode/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
