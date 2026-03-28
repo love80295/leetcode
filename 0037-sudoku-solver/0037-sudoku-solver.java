@@ -25,6 +25,7 @@ class Solution {
                  board[row][col] = '.';
              }
            }
+           return;
         }
     }
      public boolean isValid(char[][]board , int row , int col , char num){
