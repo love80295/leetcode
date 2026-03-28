@@ -92,6 +92,7 @@ leetcode solutions
 | [0020-valid-parentheses](https://github.com/love80295/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/love80295/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/love80295/leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/love80295/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/love80295/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/love80295/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/love80295/leetcode/tree/master/0242-valid-anagram) |
@@ -123,6 +124,7 @@ leetcode solutions
 | [0051-n-queens](https://github.com/love80295/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/love80295/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/love80295/leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/love80295/leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/love80295/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/love80295/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/love80295/leetcode/tree/master/0118-pascals-triangle) |
@@ -220,9 +222,11 @@ leetcode solutions
 | [0037-sudoku-solver](https://github.com/love80295/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/love80295/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/love80295/leetcode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/love80295/leetcode/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/love80295/leetcode/tree/master/0079-word-search) |
 | [2596-check-knight-tour-configuration](https://github.com/love80295/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -233,5 +237,6 @@ leetcode solutions
 | ------- |
 | [0036-valid-sudoku](https://github.com/love80295/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/love80295/leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/love80295/leetcode/tree/master/0079-word-search) |
 | [2596-check-knight-tour-configuration](https://github.com/love80295/leetcode/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
