@@ -236,6 +236,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0079-word-search](https://github.com/love80295/leetcode/tree/master/0079-word-search) |
+| [0110-balanced-binary-tree](https://github.com/love80295/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/love80295/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/love80295/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -252,9 +253,11 @@ leetcode solutions
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/love80295/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/love80295/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/love80295/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/love80295/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
