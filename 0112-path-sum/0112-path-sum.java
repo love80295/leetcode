@@ -1,26 +1,33 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-    public boolean fn(TreeNode root, int sum, int targetSum){
-        if(root == null) return false;
-
-        // choose
-        sum += root.val;
-
-        // check leaf
-        if(root.left == null && root.right == null){
-            return sum == targetSum;
+    public boolean fn(TreeNode root , int targetSum , int sum){
+       if(root!=null)  sum+=root.val;
+        if(root==null) return false;
+         if(root.left==null && root.right==null){
+            if(sum==targetSum) return true;
+            else{
+                sum-=root.val;
+                return false;
+            }
         }
-
-        // explore
-        boolean left = fn(root.left, sum, targetSum);
-        boolean right = fn(root.right, sum, targetSum);
-
-        // unchoose (optional here)
-        sum -= root.val; // ye actually required nahi hai
-
-        return left || right;
+        return fn(root.left , targetSum , sum) || fn(root.right , targetSum , sum);
     }
-
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        return fn(root, 0, targetSum);
+        if(root==null) return false;
+        return fn(root , targetSum , 0);
     }
 }
