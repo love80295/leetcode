@@ -1,14 +1,26 @@
 class Solution {
-    public boolean fun(TreeNode root,int sum){
-        if(root==null)return false;
-        if(root.left==null&&root.right==null){
-            if(sum==root.val)return true;
-            else return false;
+    public boolean fn(TreeNode root, int sum, int targetSum){
+        if(root == null) return false;
+
+        // choose
+        sum += root.val;
+
+        // check leaf
+        if(root.left == null && root.right == null){
+            return sum == targetSum;
         }
-        return fun(root.left,sum-root.val)||fun(root.right,sum-root.val);
+
+        // explore
+        boolean left = fn(root.left, sum, targetSum);
+        boolean right = fn(root.right, sum, targetSum);
+
+        // unchoose (optional here)
+        sum -= root.val; // ye actually required nahi hai
+
+        return left || right;
     }
+
     public boolean hasPathSum(TreeNode root, int targetSum) {
-       if(root==null)return false;
-       return fun(root,targetSum);
+        return fn(root, 0, targetSum);
     }
 }
