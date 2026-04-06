@@ -104,6 +104,7 @@ leetcode solutions
 | [0125-valid-palindrome](https://github.com/love80295/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/love80295/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/love80295/leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/love80295/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/love80295/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/love80295/leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/love80295/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -235,6 +236,7 @@ leetcode solutions
 | [0051-n-queens](https://github.com/love80295/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/love80295/leetcode/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/love80295/leetcode/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/love80295/leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -245,6 +247,7 @@ leetcode solutions
 | [0112-path-sum](https://github.com/love80295/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/love80295/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/love80295/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/love80295/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/love80295/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/love80295/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -269,6 +272,7 @@ leetcode solutions
 | [0112-path-sum](https://github.com/love80295/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/love80295/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/love80295/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/love80295/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/love80295/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -279,5 +283,6 @@ leetcode solutions
 | [0112-path-sum](https://github.com/love80295/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/love80295/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/love80295/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/love80295/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/love80295/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
