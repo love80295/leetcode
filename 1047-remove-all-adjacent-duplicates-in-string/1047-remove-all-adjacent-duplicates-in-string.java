@@ -4,22 +4,15 @@ class Solution {
         st.push(s.charAt(0));
         for(int i = 1 ; i<s.length() ; i++){
             char ch = s.charAt(i);
-            if(st.isEmpty()) st.push(ch);
-           else if(ch!=st.peek()) st.push(ch);
-            else{
-                st.pop();
-            }
-        
+            if(st.size()>0 && st.peek()==ch) st.pop();
+            else st.push(ch);
         }
-        String ans = "";
-      while(!st.isEmpty()){
-          ans = ans + st.peek();
-          st.pop();
-      }  
-    String reverse = "";
-    for(int i = ans.length()-1 ; i>=0 ; i--){
-        reverse+=ans.charAt(i);
-    }
-    return reverse;
+        StringBuilder sb = new StringBuilder();
+        while(st.size()>0){
+            sb.append(st.peek());
+            st.pop();
+        }
+        sb.reverse();
+        return  sb.toString();
     }
 }
