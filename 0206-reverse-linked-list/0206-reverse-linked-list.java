@@ -9,16 +9,16 @@
  * }
  */
 class Solution {
+    public ListNode rev(ListNode head){
+        if(head==null || head.next==null){
+            return head;
+        }
+        ListNode newnode = rev(head.next);
+        head.next.next = head;
+        head.next = null;
+        return newnode;
+    }
     public ListNode reverseList(ListNode head) {
-    //   if(head==null || head.next==null) return head;
-    //   ListNode newhead = reverseList(head.next);
-    //   head.next.next = head;
-    //   head.next = null;
-    //   return newhead;
-    if(head==null || head.next==null) return head;
-    ListNode newnode = reverseList(head.next);
-    head.next.next = head;
-    head.next = null;
-    return newnode;
+        return rev(head);
     }
 }
